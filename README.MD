@@ -2,7 +2,7 @@
 
 My name is Carly Maggiolo. I'm a second year Computer Science major at Rochester Institute of Technology.
 ###  *Programing languages and Tools*
-![Java](https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg =50x50)
+![Java](https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg)
 ### *Current Working with/ learning*
 
 :high_brightness: Data Science
