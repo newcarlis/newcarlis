@@ -5,7 +5,7 @@ My name is Carly Maggiolo. I'm a second year Computer Science major at Rochester
 <img src="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" width=50 height=50>
 
  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=50 height=50>
- <img src="https://static.wixstatic.com/media/6c3a69_d7b34579a8c9498ab99f84bd81212337~mv2.png/v1/fill/w_220,h_220,al_c,q_85,usm_0.66_1.00_0.01/pandas-logo-300.webp" width=50 height=50>
+ <img src="https://p.kindpng.com/picc/s/574-5747046_python-pandas-logo-transparent-hd-png-download.png" width=65 height=50>
  
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width=50 height=50>
   
