@@ -6,5 +6,5 @@ My name is Carly Maggiolo. I'm a second year Computer Science major at Rochester
    
 ### *Current Working with/ learning*
 
-:high_brightness: Data Science
+:high_brightness:Data Science/ Analytics
 :high_brightness:Pandas
